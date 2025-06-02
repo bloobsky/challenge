@@ -5,8 +5,11 @@ Mini challenge for Aidan
 ## Overview
 
 VPC -- both public & pprivate with two avail. zones
+
 ECS Fargate -- service that run container with nginx
+
 ALB -- HTTPS Listener active with ACM certificate
+
 IAM Role -- minimun for ECS Task execution
 
 
